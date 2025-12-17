@@ -28,7 +28,7 @@ const timelineData = [
             variant="swirl"
             color="#FFD700"
             badge="About Me"
-            title="Teniola Owojori"
+            title="Teni Owojori"
             description="I’m a software engineer who loves turning ideas into tools people actually use. I focus on building products that make life simpler, smoother, and more meaningful."
             showAvatar={true}
           />
@@ -129,6 +129,14 @@ const timelineData = [
                   image="/yklipp.png"
                   imageAlt="YKlipp"
                   link="https://yklipp.com/"
+                />
+                <Card
+                  title="Clerk Crawler"
+                  description="Automated real-estate intelligence platform that continuously crawls county clerk and public-record data to surface fresh off-market properties and eliminate stale, recycled leads for investors."
+                  frameworks={["Web Scraping", "Real Estate", "Data Intelligence"]}
+                  image="/clerkcrawler.png"
+                  imageAlt="Clerk Crawler"
+                  link="https://clerkcrawler.com/"
                 />
               </div>
             </ElectricCard>
