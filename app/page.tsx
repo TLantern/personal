@@ -355,7 +355,7 @@ const timelineData = [
                 <div>
                   <h3 className="text-xl font-semibold mb-3">Long-Term Ambitions</h3>
                   <ul className="text-sm opacity-80 space-y-2">
-                    <li>Create technology that amplifies human intelligence.</li>
+                    <li>Create technology that amplifies human agency.</li>
                     <li>Build systems that help people think, learn, and create at a higher level.</li>
                     <li>Become the kind of founder who pushes the frontier of what's possible.</li>
                   </ul>
